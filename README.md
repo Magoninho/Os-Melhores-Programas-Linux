@@ -42,3 +42,5 @@ From useful software to useful commands and more
 ### Frontend Dev.
 * Visual Studio Code
 
+### Languages
+* LXKeyMap - Change keyboard language set
