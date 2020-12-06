@@ -1,4 +1,4 @@
-# Lubuntu
+# Great Software for Linux Users
 From useful software to useful commands and more
 
 ## Software
@@ -47,3 +47,6 @@ From useful software to useful commands and more
 
 ### Alarms
 * Clock-Alarm-Applet - Alarm Clock is a fully-featured alarm clock which resides in the notification area. It is easy to use yet powerful with support for multiple and repeatable alarms, as well as snoozing and a flexible notification system. Two types of alarms are supported: Alarm Clocks and Timers. Notification is done by either playing a sound or launching an application. 
+
+### Mind Mapping
+* Freemind
