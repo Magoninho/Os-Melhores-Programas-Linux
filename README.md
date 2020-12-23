@@ -1,29 +1,30 @@
-# Great Software for Linux Users
-From useful software to useful commands and more
+# Os melhores programas para usuários Linux
+Programas e comandos úteis
 
 ## Software
 
-### Visual Confort
+### Conforto Visual
 * Redshift
 
-### USB ( Image and Formatting )
+### USB ( Formatação de USB e Gravação de ISO )
 * USB Image Writer
 * USB Stick Formatter
 
-### Fonts
+### Fontes
 * Gnome-font-viewer
 
-### Simple Notes
+### Anotações simples
 * Xpad
 
-### Ebook Library Management
+### Biblioteca para Gerenciamento de Ebooks
 * Calibre
 
-### Mind Mapping
+### Mapas Mentais
 * VYM
+* Freemind
 
-### Media
-* Kdenlive - Non-linear video editor (amazing)
+### Mídia
+* Kdenlive - Editor de vídeo (incrível)
 * Mobile Media Converter - GUI for converting Desktop and Mobile media formats (Works well)
 * SimpleScreenRecorder - A feature-rich screen recorder that supports X11 and OpenGL (Works well)
 * MuseScore - Create, play and print sheet music
@@ -33,20 +34,17 @@ From useful software to useful commands and more
 * Subtitle Editor - Video subtitling
 * Audacity - Record and edit audio files
 
-### Disk Usage
+### Uso do Disco
 * Baobab
 
-### Disk Burning
+### Gravação de Discos (CD e DVD)
 * K3B
 
-### Frontend Dev.
+### Programação
 * Visual Studio Code
 
-### Languages
+### Linguagens
 * LXKeyMap - Change keyboard language set
 
-### Alarms
+### Alarmes
 * Clock-Alarm-Applet - Alarm Clock is a fully-featured alarm clock which resides in the notification area. It is easy to use yet powerful with support for multiple and repeatable alarms, as well as snoozing and a flexible notification system. Two types of alarms are supported: Alarm Clocks and Timers. Notification is done by either playing a sound or launching an application. 
-
-### Mind Mapping
-* Freemind
