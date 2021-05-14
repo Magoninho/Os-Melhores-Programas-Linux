@@ -73,3 +73,4 @@
 * tty-clock - a terminal digital clock
 * cmatrix - simulates the display from "The Matrix"
 * hollywood - fill your console with Hollywood melodrama technobabble
+* ninvaders - ncurses version of space invaders
