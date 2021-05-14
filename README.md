@@ -45,6 +45,8 @@
 * Visual Studio Code
 * Atom
 * Sublime Text
+* GVim
+* Emacs
 
 ### Linguagens
 * LXKeyMap - Change keyboard language set
@@ -55,6 +57,12 @@
 ---
 
 ## Software de terminal
+
+### Emuladores de terminal
+* tilix
+* Cool Retro Term
+* urxvt
+* Terminator
 
 ### Monitoramento do sistema
 * htop - interactive process viewer
